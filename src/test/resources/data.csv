@@ -1,2 +1,5 @@
-"'NotRegistered user, bonus under limit',100060,false,30",
-"'NotRegistered user, bonus over limit',100000060,false,500"
+'registered user bonus under limit',100060,true,30
+'registered user bonus over limit',100060000000,true,500
+'NotRegistered user bonus under limit',100060,false,10
+'NotRegistered user bonus over limit',100060000000,false,500
+
